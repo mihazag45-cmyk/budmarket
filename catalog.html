@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="UA">
+<head>
+    <meta charset="UTF-8">
+    <title>БудМаркет</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    
+<header class="header">
+    <div class="logo">БудМаркет</div>
+
+    <nav class="nav">
+        <a href="index.html">Головна</a>
+        <a href="catalog.html">Католог</a>
+        <a href="cart.html">Кошик</a>
+        <a href="contacts.html">Контакти</a>
+    </nav>
+</header>
+<main class="main">
+    <div class="catalog-layout">
+        <aside class="filters">
+            <div class="search-input">
+        <input type="text" id="search-input" placeholder="Пошук товару...">
+    </div>
+            <h3>Категорії</h3>
+            <ul class="category-list">
+                <li onclick="filterProducts('all')">Усі</li>
+                <li onclick="filterProducts('tools')">Ручний інструмент</li>
+                <li onclick="filterProducts('plumbing')">Сантехніка</li>
+                <li onclick="filterProducts('electric')">Електрика</li>
+                <li onclick="filterProducts('paint')">Фарби</li> 
+            </ul>
+        </aside>
+    
+        <section class="products">
+            <div class="product-card" data-category="tools" data-name="Молоток 200гр" data-price="120грн">
+                <img src="img/молоток.jpg" alt="молоток">
+                <h3>Молоток 200гр</h3>
+                <div class="price">120</div>
+                <button class="cart-button">У Кошик</button>
+            </div>
+            <div class="product-card" data-category="tools" data-name="валик Гирпаинт" data-price="212грн">
+                <img src="img/валик.jpg" alt="валик">
+                <h3>валик Гирпаинт</h3>
+                <div class="price">212</div>
+                <button class="cart-button">У Кошик</button>
+            </div>
+            <div class="product-card" data-category="electric" data-name="лампочка" data-price="30грн">
+                <img src="img/лампочка.jpg" alt="лампочка">
+                <h3>лампочка</h3>
+                <div class="price">30</div>
+                <button class="cart-button">У Кошик</button>
+            </div>
+            <div class="product-card" data-category="plumbing" data-name="лейка" data-price="135 грн">
+                <img src="img/лейка.jpg" alt="лейка">
+                <h3>лейка</h3>
+                <div class="price">135</div>
+                <button class="cart-button">У Кошик</button>
+            </div>
+            <div class="product-card" data-category="tools" data-name="стремянка" data-price="600 грн">
+                <img src="img/стремянка.jpg" alt="стремянка">
+                <h3>стремянка</h3>
+                <div class="price">600</div>
+                <button class="cart-button">У Кошик</button>
+            </div>
+            <div class="product-card" data-category="tools" data-name="диск по металу 125мм" data-price="35грн">
+                <img src="img/диск.jpg" alt="диск">
+                <h3>диск по металу 125мм</h3>
+                <div class="price">35</div>
+                <button class="cart-button">У Кошик</button>
+            </div>
+            <div class="product-card" data-category="paint"data-name="Краска" data-price="350грн">
+                <img src="img/краска.jpg" alt="Краска">
+                <h3>Краска</h3>
+                <div class="price">350</div>
+                <button class="cart-button">У Кошик</button>
+            </div>
+        </section>
+    </div>
+    <!---Контент страницы-->
+</main>
+<div id="cart-alert" class="cart-alert"></div>
+<footer class="footer">
+    <p>© 2026 БудМаркет</p>
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>

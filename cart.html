@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="UA">
+<head>
+    <meta charset="UTF-8">
+    <title>БудМаркет</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    
+<header class="header">
+    <div class="logo">БудМаркет</div>
+
+    <nav class="nav">
+        <a href="index.html">Головна</a>
+        <a href="catalog.html">Католог</a>
+        <a href="cart.html">Кошик</a>
+        <a href="contacts.html">Контакти</a>
+    </nav>
+</header>
+<main class="main">
+    <h1>Кошик</h1>
+    <section class="cart">
+        <div class="cart-header">
+            <p>Назва</p>
+            <p>Ціна</p>
+            <p>Кількість</p>
+            <p>Видалити</p>
+        </div>
+        <div class="cart-list"></div>
+        
+        <div class="cart-footer">
+           <p> Сума: <span id="total-price">0</span>грн </p>
+        </div>
+        <button onclick="clearCart()" class="clear-cart">Очистити Кошик</button>
+        <button class="cart-itog">Оформити замовлення</button>
+    </section>
+
+</main>
+
+<footer class="footer">
+    <p>© 2026 БудМаркет</p>
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>

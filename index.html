@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="UA">
+<head>
+    <meta charset="UTF-8">
+    <title>БудМаркет</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    
+<header class="header">
+    <div class="logo">БудМаркет</div>
+
+    <nav class="nav">
+        <a href="index.html">Головна</a>
+        <a href="catalog.html">Католог</a>
+        <a href="cart.html">Кошик</a>
+        <a href="contacts.html">Контакти</a>
+    </nav>
+</header>
+<main class="main">
+   <div class="search-input">
+        <input type="text" id="search-input" placeholder="Пошук товару...">
+    </div>
+    <section class="hero">
+        <div class="hero-content">
+            <h1>БудМаркет</h1>
+            <p>Все для ремонту та будівництва в одному місці</p>
+
+            <button onclick="scrollToProducts()" class="hero-btn">переглянути товари</button>
+        </div>
+    </section>
+        <div class="hero-text">
+            <h1>БудМаркет</h1>
+            <p>Все для ремонту та будівництва</p>
+            <a href="catalog.html" class="hero-btn"> Перейти до каталогу</a>
+        </div>
+    <section class="categories"></section>
+    <section class="popular"></section>
+        <h2>Популярні товари</h2>
+        <div class="popular-products">
+            <div class="product-card" data-category="tools">
+                <img src="img/диск.jpg" alt="диск">
+                <h3>диск по металу 125мм</h3>
+                <div class="price">35 грн</div>
+                <button class="cart-button">У Кошик</button>
+            </div>
+                <div class="product-card" data-category="paint">
+                <img src="img/краска.jpg" alt="Краска">
+                <h3>Краска</h3>
+                <div class="price">350 грн</div>
+                <button class="cart-button">У Кошик</button>
+            </div>
+        </div>
+    <section class="advantages">Переваги</section>
+    <div class="advantage">🚚 Швидка Доставка</div>
+    <div class="advantage">🛠 Якісний інструмент</div>
+    <div class="advantage">💰 Найкращі ціни</div>
+    <!---Контент страницы-->
+</main>
+
+<footer class="footer">
+    <p>© 2026 БудМаркет</p>
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>
