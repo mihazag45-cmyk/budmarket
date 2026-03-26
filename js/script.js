@@ -165,3 +165,72 @@ function scrollToProducts(){
         behavior:"smooth"
     });
 }
+
+async function loadProducts() {
+
+    try {
+
+        const response = await fetch("products.json");
+        const products = await response.json();
+
+        const container = document.querySelector(".products");
+
+        if(!container) return;
+
+        container.innerHTML = "";
+
+        products.forEach(product => {
+
+            const card = document.createElement("div");
+
+            card.classList.add("product-card");
+
+            card.dataset.name = product.name;
+            card.dataset.price = product.price;
+            card.dataset.category = product.category;
+
+            card.innerHTML = `
+                <img src="${product.image}">
+                <h3>${product.name}</h3>
+                <div class="price">${product.price} грн</div>
+                <button class="cart-button">У кошик</button>
+            `;
+
+            const button = card.querySelector(".cart-button");
+
+            button.addEventListener("click", function(){
+
+                let name = product.name;
+                let price = product.price;
+
+                let existingProduct = cart.find(p => p.name === name);
+
+                if(existingProduct){
+                    existingProduct.quantity += 1;
+                } else {
+                    cart.push({
+                        name: name,
+                        price: price,
+                        quantity: 1
+                    });
+                }
+
+                localStorage.setItem("cart", JSON.stringify(cart));
+
+                showCartAlert(name);
+
+            });
+
+            container.appendChild(card);
+
+        });
+
+    } catch(error) {
+
+        console.log("Ошибка загрузки товаров:", error);
+
+    }
+
+}
+
+loadProducts();

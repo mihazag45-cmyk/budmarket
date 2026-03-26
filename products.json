@@ -1,0 +1,1040 @@
+[
+  {
+    "name": "Молоток 200гр",
+    "price": 120,
+    "category": "tools",
+    "image": "img/молоток.jpg"
+  },
+  {
+    "name": "Валик Гирпаинт",
+    "price": 212,
+    "category": "tools",
+    "image": "img/валик.jpg"
+  },
+  {
+    "name": "Лампочка",
+    "price": 30,
+    "category": "electric",
+    "image": "img/лампочка.jpg"
+  },
+  {
+    "name": "лейка",
+    "price": 132,
+    "category": "plumbing",
+    "image": "img/лейка.jpg"
+  },
+  {
+    "name": "Стремянка",
+    "price": 800,
+    "category": "tools",
+    "image": "img/стремянка.jpg"
+  },
+  {
+    "name": "Лопата",
+    "price": 154,
+    "category": "tools",
+    "image": "img/лопата.jpg"
+  },
+  {
+    "name": "диск отрезной по металу",
+    "price": 32,
+    "category": "tools",
+    "image": "img/диск.jpg"
+  },
+   {
+    "name": "Краска",
+    "price": 65,
+    "category": "paint",
+    "image": "img/краска.jpg"
+  },
+  {
+    "name": "Шатель-лопатка Сталь 38мм",
+    "price": 85,
+    "category": "tools",
+    "image": "img/шпатель-д-40.webp"
+  },
+  {
+    "name": "Шатель-лопатка Сталь 60мм",
+    "price": 102,
+    "category": "tools",
+    "image": "img/шпатель-л-60.webp"
+  },
+  {
+    "name": "Шатель-лопатка Сталь 80мм",
+    "price": 105,
+    "category": "tools",
+    "image": "img/шпатель-л 80.webp"
+  },
+  {
+    "name": "Шатель-лопатка Сталь 100мм",
+    "price": 144,
+    "category": "tools",
+    "image": "img/шпатель-л-100.webp"
+  },
+  {
+    "name": "Шатель-лопатка Сталь 120мм",
+    "price": 140,
+    "category": "tools",
+    "image": "img/шпатель-л-150.webp"
+  },
+  {
+    "name": "Шатель-лопатка Сталь 150мм",
+    "price": 150,
+    "category": "tools",
+    "image": "img/шпатель-л-150.webp"
+  },
+  {
+    "name": "Шатель із нержавіючим покритям Сталь 250мм",
+    "price": 250,
+    "category": "tools",
+    "image": "img/шпатель-с-250.webp"
+  },
+  {
+    "name": "Шатель із нержавіючим покритям Сталь 300мм",
+    "price": 300,
+    "category": "tools",
+    "image": "img/шпатель-с-300.webp"
+  },
+  {
+    "name": "Шательіз нержавіючим покритям Сталь 350мм",
+    "price": 320,
+    "category": "tools",
+    "image": "img/шпатель-с-350.webp"
+  },
+  {
+    "name": "Шатель із нержавіючим покритям Сталь 400мм",
+    "price": 370,
+    "category": "tools",
+    "image": "img/шпатель-с-400.webp"
+  },
+  {
+    "name": "Шатель Сталь 40мм",
+    "price": 37,
+    "category": "tools",
+    "image": "img/шпатель-40.webp"
+  },
+  {
+    "name": "Шатель Сталь 60мм",
+    "price": 40,
+    "category": "tools",
+    "image": "img/шпатель 60.webp"
+  },
+  {
+    "name": "Шатель Сталь 80мм",
+    "price": 45,
+    "category": "tools",
+    "image": "img/шпатель 80.webp"
+  },
+  {
+    "name": "Шатель Сталь 100мм",
+    "price": 50,
+    "category": "tools",
+    "image": "img/шпатель 100.webp"
+  },
+  {
+    "name": "Шатель Сталь 150мм",
+    "price": 65,
+    "category": "tools",
+    "image": "img/шпатель 150.webp"
+  },
+   {
+    "name": "Шатель Сталь 350мм",
+    "price": 111,
+    "category": "tools",
+    "image": "img/шпатель 350.webp"
+  },
+   {
+    "name": "Шатель Сталь 600мм",
+    "price": 259,
+    "category": "tools",
+    "image": "img/шпатель 600.webp"
+  },
+  {
+    "name": "Ручка для валика 8-250мм Сталь",
+    "price": 96,
+    "category": "tools",
+    "image": "img/ручка-с-8-250.webp"
+  },
+  {
+    "name": "Ручка для валика 8-180мм Сталь",
+    "price": 76,
+    "category": "tools",
+    "image": "img/ручка-с-8-180.webp"
+  },
+  {
+    "name": "Ручка для валика 6-150мм Сталь",
+    "price": 50,
+    "category": "tools",
+    "image": "img/ручка-с-6-150.webp"
+  },
+  {
+    "name": "Ручка для валика 8-250мм Укрпром",
+    "price": 65,
+    "category": "tools",
+    "image": "img/ручка-у-8-250.webp"
+  },
+  {
+    "name": "Ручка для валика 8-180мм Укрпром",
+    "price": 50,
+    "category": "tools",
+    "image": "img/ручка-у-8-180.webp"
+  },
+  {
+    "name": "Ручка для валика 6-150мм Укрпром",
+    "price": 37,
+    "category": "tools",
+    "image": "img/ручка-у-6-150.webp"
+  },
+  {
+    "name": "Стрейч плівка прозора",
+    "price": 477,
+    "category": "scotch",
+    "image": "img/стрейч-п.webp"
+  },
+  {
+    "name": "Стрейч плівка чорна",
+    "price": 522,
+    "category": "scotch",
+    "image": "img/стрейч-ч.webp"
+  },
+  {
+    "name": "Скотч пакувальний 500",
+    "price": 250,
+    "category": "scotch",
+    "image": "img/скотч 500.webp"
+  },
+  {
+    "name": "скотч пакувальний 200",
+    "price": 182,
+    "category": "scotch",
+    "image": "img/скотч 200.webp"
+  },
+  {
+    "name": "Скотч пакувальний 100",
+    "price": 87,
+    "category": "scotch",
+    "image": "img/скотч 100.webp"
+  },
+  {
+    "name": "Скотч армований 10м",
+    "price": 56,
+    "category": "scotch",
+    "image": "img/скотч армований 10.webp"
+  },
+  {
+    "name": "Скотч армований 25м",
+    "price": 125,
+    "category": "scotch",
+    "image": "img/скотч армований 20.webp"
+  },
+  {
+    "name": "Скотч армований 50м",
+    "price": 326,
+    "category": "scotch",
+    "image": "img/скотч армований 50.webp"
+  },
+  {
+    "name": "Скотч алюмінієвий 10м",
+    "price": 59,
+    "category": "scotch",
+    "image": "img/скотч алюм 10.webp"
+  },
+  {
+    "name": "Скотч алюмінієвий 25м",
+    "price": 127,
+    "category": "scotch",
+    "image": "img/скотч алюм 25.webp"
+  },
+  {
+    "name": "Скотч алюмінієвий 50м",
+    "price": 257,
+    "category": "scotch",
+    "image": "img/скотч алюм 50.webp"
+  },
+  {
+    "name": "Стрічка малярна 48мм 40м",
+    "price": 132,
+    "category": "scotch",
+    "image": "img/стрічка малярна 48.webp"
+  },
+  {
+    "name": "Стрічка малярна 38мм 40м",
+    "price": 101,
+    "category": "scotch",
+    "image": "img/стрічка малярна 48.webp"
+  },
+  {
+    "name": "Стрічка малярна 48мм 20м",
+    "price": 98,
+    "category": "scotch",
+    "image": "img/стрічка малярна 48.webp"
+  },
+  {
+    "name": "Стрічка малярна 38мм 20м",
+    "price": 67,
+    "category": "scotch",
+    "image": "img/стрічка малярна 48.webp"
+  },
+  {
+    "name": "Стрічка малярна 25мм 40м",
+    "price": 51,
+    "category": "scotch",
+    "image": "img/стрічка малярна 25.webp"
+  },
+  {
+    "name": "Стрічка малярна 25мм 20м",
+    "price": 35,
+    "category": "scotch",
+    "image": "img/стрічка малярна 25.webp"
+  },
+  {
+    "name": "Плівка захисна 7мкр",
+    "price": 43,
+    "category": "scotch",
+    "image": "img/плівка-7.webp"
+  },
+  {
+    "name": "Плівка захисна 20мкр",
+    "price": 93,
+    "category": "scotch",
+    "image": "img/плівка-20.webp"
+  },
+  {
+    "name": "Плівка захисна 40мкр",
+    "price": 173,
+    "category": "scotch",
+    "image": "img/плівка-40.webp"
+  },
+  {
+    "name": "плівка захисна малярна 550мм-20м",
+    "price": 119,
+    "category": "scotch",
+    "image": "img/плівка-55-20.webp"
+  },
+  {
+    "name": "плівка захисна малярна 1400мм-20м",
+    "price": 230,
+    "category": "scotch",
+    "image": "img/плівка-140-20.webp"
+  },
+  {
+    "name": "Рукавиці червоні з резиновим покритям",
+    "price": 42,
+    "category": "percatki",
+    "image": "img/рук-ч-ч.webp"
+  },
+  {
+    "name": "рукавиці з подвійним покритям резини",
+    "price": 67,
+    "category": "percatki",
+    "image": "img/рук-с-ч.webp"
+  },
+  {
+    "name": "рукавиці з латексним покритям",
+    "price": 89,
+    "category": "percatki",
+    "image": "img/рук-с-с.webp"
+  },
+  {
+    "name": "рукавиці сад-огород",
+    "price": 35,
+    "category": "percatki",
+    "image": "img/рук-с-о.webp"
+  },
+  {
+    "name": "Рукавиці робочі легкі",
+    "price": 41,
+    "category": "percatki",
+    "image": "img/рук-п-ч.webp"
+  },
+  {
+    "name": "Рукавиці робочі білі",
+    "price": 49,
+    "category": "percatki",
+    "image": "img/рук-б-ч.webp"
+  },
+  {
+    "name": "Рукавиці робочі чорні",
+    "price": 49,
+    "category": "percatki",
+    "image": "img/рук-ч-ж.webp"
+  },
+  {
+    "name": "Ножівка по дереву 450мм",
+    "price": 267,
+    "category": "tools",
+    "image": "img/нож-д-450.webp"
+  },
+  {
+    "name": "Ножівка по дереву 400мм",
+    "price": 247,
+    "category": "tools",
+    "image": "img/нож-д-400.webp"
+  },
+  {
+    "name": "Ножівка по дереву 350мм",
+    "price": 199,
+    "category": "tools",
+    "image": "img/нож-д-350.webp"
+  },
+  {
+    "name": "Ножівка по металу пластикова",
+    "price": 198,
+    "category": "tools",
+    "image": "img/нож-м-п.webp"
+  },
+  {
+    "name": "Ножівка по металу металева 350-400",
+    "price": 254,
+    "category": "tools",
+    "image": "img/нож-м-м.webp"
+  },
+  {
+    "name": "Клей-герметик Fix-all білий",
+    "price": 403,
+    "category": "sealant",
+    "image": "img/фикс-б.jpg"
+  },
+  {
+    "name": "Клей-герметик Fix-all прозорий",
+    "price": 403,
+    "category": "sealant",
+    "image": "img/фикс-к.jpg"
+  },
+  {
+    "name": "Клей-герметик Fix-all Турбо",
+    "price": 403,
+    "category": "sealant",
+    "image": "img/фикс-т.jpg"
+  },
+  {
+    "name": "Герметик силіконовий Нейтральний білий",
+    "price": 364,
+    "category": "sealant",
+    "image": "img/силікон-н-с.jpg"
+  },
+  {
+    "name": "Герметик силіконовий Нейтральний прозорий",
+    "price": 364,
+    "category": "sealant",
+    "image": "img/силікон-н-с.jpg"
+  },
+  {
+    "name": "Герметик силіконовий Санітарний білий",
+    "price": 299,
+    "category": "sealant",
+    "image": "img/силікон-с.jpg"
+  },
+  {
+    "name": "Герметик силіконовий Санітарний прозорий",
+    "price": 299,
+    "category": "sealant",
+    "image": "img/силікон-с.jpg"
+  },
+  {
+    "name": "Герметик силіконовий Універсальний білий",
+    "price": 308,
+    "category": "sealant",
+    "image": "img/силікон-у.jpg"
+  },
+   {
+    "name": "Герметик силіконовий Універсальний прозорий",
+    "price": 308,
+    "category": "sealant",
+    "image": "img/силікон-у.jpg"
+  },
+   {
+    "name": "Герметик силіконовий Універсальний чорний",
+    "price": 308,
+    "category": "sealant",
+    "image": "img/силікон-у.jpg"
+  },
+   {
+    "name": "Герметик силіконовий Універсальний коричневий",
+    "price": 308,
+    "category": "sealant",
+    "image": "img/силікон-у.jpg"
+  },
+   {
+    "name": "Герметик силіконовий Універсальний сірий",
+    "price": 308,
+    "category": "sealant",
+    "image": "img/силікон-у.jpg"
+  },
+  {
+    "name": "Герметик Акриловий білий",
+    "price": 167,
+    "category": "sealant",
+    "image": "img/акрил.jpg"
+  },
+  {
+    "name": "Герметик Акриловий чорний",
+    "price": 167,
+    "category": "sealant",
+    "image": "img/акрил.jpg"
+  },
+ {
+    "name": "Герметик Акриловий сірий",
+    "price": 167,
+    "category": "sealant",
+    "image": "img/акрил.jpg"
+  },
+ {
+    "name": "Герметик Акриловий коричневий",
+    "price": 167,
+    "category": "sealant",
+    "image": "img/акрил.jpg"
+  },
+  {
+    "name": "Герметик силіконовий Універсальний білий",
+    "price": 243,
+    "category": "sealant",
+    "image": "img/сілікон-у-цер.webp"
+  },
+  {
+    "name": "Герметик силіконовий Універсальний прозорий",
+    "price": 243,
+    "category": "sealant",
+    "image": "img/сілікон-у-цер.webp"
+  },
+  {
+    "name": "Герметик Акриловий білий",
+    "price": 197,
+    "category": "sealant",
+    "image": "img/акрил-цер.webp"
+  },
+  {
+    "name": "Герметик силіконовий Санітарний білий",
+    "price": 307,
+    "category": "sealant",
+    "image": "img/сілікон-с-цер.webp"
+  },
+  {
+    "name": "Герметик силіконовий Санітарний прозорий",
+    "price": 307,
+    "category": "sealant",
+    "image": "img/сілікон-с-цер.webp"
+  },
+  {
+    "name": "Фарба латексна акрилова для стін та стель 1,4кг",
+    "price": 112,
+    "category": "paint",
+    "image": "img/delfi-profi-white.png"
+  },
+  {
+    "name": "Фарба латексна акрилова для стін та стель 4,2кг",
+    "price": 341,
+    "category": "paint",
+    "image": "img/delfi-profi-white.png"
+  },
+  {
+    "name": "Фарба латексна акрилова для стін та стель 7кг",
+    "price": 657,
+    "category": "paint",
+    "image": "img/delfi-profi-white.png"
+  },
+  {
+    "name": "Фарба латексна акрилова для стін та стель 14кг",
+    "price": 1290,
+    "category": "paint",
+    "image": "img/delfi-profi-latex.png"
+  },
+  {
+    "name": "Фарба латексна акрилова 1,4кг",
+    "price": 247,
+    "category": "paint",
+    "image": "img/delfi-profi-latex.png"
+  },
+   {
+    "name": "Фарба латексна акрилова 4,2кг",
+    "price": 583,
+    "category": "paint",
+    "image": "img/delfi-profi-latex.png"
+  },
+   {
+    "name": "Фарба латексна акрилова 7кг",
+    "price": 947,
+    "category": "paint",
+    "image": "img/delfi-profi-latex.png"
+  },
+   {
+    "name": "Фарба латексна акрилова 14кг",
+    "price": 1069,
+    "category": "paint",
+    "image": "img/delfi-profi-latex.png"
+  },
+  {
+    "name": "Фарба латексна акрилова фасадна 1,4кг",
+    "price": 287,
+    "category": "paint",
+    "image": "img/delfi-profi-facade.png"
+  },
+  {
+    "name": "Фарба латексна акрилова фасадна 4,2кг",
+    "price": 589,
+    "category": "paint",
+    "image": "img/delfi-profi-facade.png"
+  },
+  {
+    "name": "Фарба латексна акрилова фасадна 7кг",
+    "price": 974,
+    "category": "paint",
+    "image": "img/delfi-profi-facade.png"
+  },
+  {
+    "name": "Фарба латексна акрилова фасадна 14кг",
+    "price": 1760,
+    "category": "paint",
+    "image": "img/delfi-profi-facade.png"
+  },
+  {
+    "name": "Валик малярський Велюр 6х50мм",
+    "price": 49,
+    "category": "roller",
+    "image": "img/велюр-міні.webp"
+  },
+  {
+    "name": "Валик малярський Велюр 6х100мм",
+    "price": 54,
+    "category": "roller",
+    "image": "img/велюр-міні.webp"
+  },
+  {
+    "name": "Валик малярський Велюр 6х150мм",
+    "price": 87,
+    "category": "roller",
+    "image": "img/велюр-міні.webp"
+  },
+  {
+    "name": "Валик малярський Велюр 8х180мм",
+    "price": 97,
+    "category": "roller",
+    "image": "img/велюр-норм.webp"
+  },
+  {
+    "name": "Валик малярський Велюр 8х250мм",
+    "price": 112,
+    "category": "roller",
+    "image": "img/велюр-норм.webp"
+  },
+  {
+    "name": "Валик малярський Сінтекс 6х50мм",
+    "price": 42,
+    "category": "roller",
+    "image": "img/сінтекс-міні.webp"
+  },
+  {
+    "name": "Валик малярський Сінтекс 6х100мм",
+    "price": 57,
+    "category": "roller",
+    "image": "img/сінтекс-міні.webp"
+  },
+  {
+    "name": "Валик малярський Сінтекс 6х150мм",
+    "price": 89,
+    "category": "roller",
+    "image": "img/сінтекс-міні.webp"
+  },
+  {
+    "name": "Валик малярський Сінтекс 8х180мм",
+    "price": 93,
+    "category": "roller",
+    "image": "img/сінтекс-норм.webp"
+  },
+  {
+    "name": "Валик малярський Сінтекс 8х250мм",
+    "price": 117,
+    "category": "roller",
+    "image": "img/сінтекс-норм.webp"
+  },
+  {
+    "name": "Валик малярський Гірпаінт 6х50мм",
+    "price": 41,
+    "category": "roller",
+    "image": "img/гірпаінт-міні.webp"
+  },
+  {
+    "name": "Валик малярський Гірпаінт 6х100мм",
+    "price": 58,
+    "category": "roller",
+    "image": "img/гірпаінт-міні.webp"
+  },
+  {
+    "name": "Валик малярський Гірпаінт 6х150мм",
+    "price": 87,
+    "category": "roller",
+    "image": "img/гірпаінт-міні.webp"
+  },
+  {
+    "name": "Валик малярський Гірпаінт 8х180мм",
+    "price": 96,
+    "category": "roller",
+    "image": "img/гірпаінт-норм.webp"
+  },
+  {
+    "name": "Валик малярський Гірпаінт 8х250мм",
+    "price": 124,
+    "category": "roller",
+    "image": "img/гірпаінт-норм.webp"
+  },
+  {
+    "name": "Валик малярський Преміум 6х50мм",
+    "price": 49,
+    "category": "roller",
+    "image": "img/преміум-міні.webp"
+  },
+  {
+    "name": "Валик малярський Преміум 6х100мм",
+    "price": 63,
+    "category": "roller",
+    "image": "img/преміум-міні.webp"
+  },
+  {
+    "name": "Валик малярський Преміум 6х150мм",
+    "price": 88,
+    "category": "roller",
+    "image": "img/преміум-міні.webp"
+  },
+  {
+    "name": "Валик малярський Преміум 8х180мм",
+    "price": 96,
+    "category": "roller",
+    "image": "img/преміум-норм.webp"
+  },
+  {
+    "name": "Валик малярський Преміум 8х250мм",
+    "price": 123,
+    "category": "roller",
+    "image": "img/преміум-норм.webp"
+  },
+  {
+    "name": "Валик малярський Мультіколор 6х50мм",
+    "price": 44,
+    "category": "roller",
+    "image": "img/мільт-міні.webp"
+  },
+  {
+    "name": "Валик малярський Мультіколор 6х100мм",
+    "price": 53,
+    "category": "roller",
+    "image": "img/мільт-міні.webp"
+  },
+  {
+    "name": "Валик малярський Мультіколор 6х150мм",
+    "price": 78,
+    "category": "roller",
+    "image": "img/мільт-міні.webp"
+  },
+  {
+    "name": "Валик малярський Мультіколор 8х180мм",
+    "price": 86,
+    "category": "roller",
+    "image": "img/мульт-норм.webp"
+  },
+  {
+    "name": "Валик малярський Мультіколор 8х250мм",
+    "price": 113,
+    "category": "roller",
+    "image": "img/мульт-норм.webp"
+  },
+  {
+    "name": "Кабель ПВС 3х2,5",
+    "price": 84,
+    "category": "electric",
+    "image": "img/пвс3-25.webp"
+  },
+  {
+    "name": "Кабель ПВС 3х1,5",
+    "price": 56,
+    "category": "electric",
+    "image": "img/пвс3-15.webp"
+  },
+   {
+    "name": "Кабель ПВС 2х2,5",
+    "price": 67,
+    "category": "electric",
+    "image": "img/пвс2-25.webp"
+  },
+  {
+    "name": "Кабель ПВС 2х1,5",
+    "price": 47,
+    "category": "electric",
+    "image": "img/пвс2-15.webp"
+  },
+  {
+    "name": "Кабель ШВВП 3х2,5",
+    "price": 70,
+    "category": "electric",
+    "image": "img/шввп3-25.webp"
+  },
+  {
+    "name": "Кабель ШВВП 3х1,5",
+    "price": 64,
+    "category": "electric",
+    "image": "img/шввп3-25.webp"
+  },
+   {
+    "name": "Кабель ШВВП 2х2,5",
+    "price": 67,
+    "category": "electric",
+    "image": "img/шввп2-25.webp"
+  },
+  {
+    "name": "Кабель ШВВП 2х1,5",
+    "price": 54,
+    "category": "electric",
+    "image": "img/пвс2-15.webp"
+  },
+  {
+    "name": "Кабель ШВВП 2х0,75",
+    "price": 25,
+    "category": "electric",
+    "image": "img/шввп2-075.webp"
+  },
+  {
+    "name": "Кабель ВВГ 3х2,5",
+    "price": 70,
+    "category": "electric",
+    "image": "img/ввг3-25.webp"
+  },
+  {
+    "name": "Кабель ВВг 3х1,5",
+    "price": 67,
+    "category": "electric",
+    "image": "img/ввг3-15.webp"
+  },
+   {
+    "name": "Кабель ВВГ 2х2,5",
+    "price": 59,
+    "category": "electric",
+    "image": "img/ввг2-25.webp"
+  },
+  {
+    "name": "Кабель ВВГ 2х1,5",
+    "price": 54,
+    "category": "electric",
+    "image": "img/ввг2-15.webp"
+  },
+  {
+    "name": "Вилка пряма с заземленням біла",
+    "price": 79,
+    "category": "electric",
+    "image": "img/вилка-п-с-б.webp"
+  },
+  {
+    "name": "Вилка пряма с заземленням чорна",
+    "price": 79,
+    "category": "electric",
+    "image": "img/вилка-п-с-ч.webp"
+  },
+   {
+    "name": "Вилка кутова с заземленням біла",
+    "price": 68,
+    "category": "electric",
+    "image": "img/вилка-к-с-б.webp"
+  },
+  {
+    "name": "Вилка кутова с заземленням чорна",
+    "price": 68,
+    "category": "electric",
+    "image": "img/вилка-к-с-ч.webp"
+  },
+  {
+    "name": "Вилка пряма без заземлення",
+    "price": 68,
+    "category": "electric",
+    "image": "img/вилка колок.webp"
+  },
+  {
+    "name": "Вилка пряма каучукова чорна",
+    "price": 112,
+    "category": "electric",
+    "image": "img/вилка каучук.webp"
+  },
+  {
+    "name": "Розетка переносна с заземленням біла",
+    "price": 69,
+    "category": "electric",
+    "image": "img/розетка-пер-б.webp"
+  },
+  {
+    "name": "Розетка переносна с заземленням каучукова",
+    "price": 132,
+    "category": "electric",
+    "image": "img/розетка-пер-к.webp"
+  },
+  {
+    "name": "Розетка Asfora біла без заземлення",
+    "price": 147,
+    "category": "electric",
+    "image": "img/розетка-а-б.jpg"
+  },
+  {
+    "name": "Розетка Asfora біла с заземленням двійна",
+    "price": 256,
+    "category": "electric",
+    "image": "img/розетка-а-с-дв.jpg"  
+  },
+  {
+    "name": "Розетка Asfora біла с заземленням",
+    "price": 187,
+    "category": "electric",
+    "image": "img/розетка-а-с.jpg"  
+  },
+  {
+    "name": "Розетка VIKO Carmen біла с заземленням",
+    "price": 150,
+    "category": "electric",
+    "image": "img/розетка-к-с.png"  
+  },
+  {
+    "name": "Розетка VIKO Carmen біла с заземленням двійна",
+    "price": 178,
+    "category": "electric",
+    "image": "img/розетка-к-с-дв.png"  
+  },
+  {
+    "name": "Розетка VIKO Carmen біла без заземлення",
+    "price": 187,
+    "category": "electric",
+    "image": "img/розетка-к-б.png"  
+  },
+  {
+    "name": "Розетка VIKO Carmen біла без заземленняя двійна",
+    "price": 178,
+    "category": "electric",
+    "image": "img/розетка-к-б-дв.png"  
+  },
+  {
+    "name": "Вимикач одноклавішний Asfora білий",
+    "price": 147,
+    "category": "electric",
+    "image": "img/вимикач-а-1.png"  
+  },
+  {
+    "name": "Вимикач двоклавішний Asfora білий",
+    "price": 178,
+    "category": "electric",
+    "image": "img/вимикач-а-2.png"  
+  },
+  {
+    "name": "Вимикач одноклавішний VIKO Carmen білий",
+    "price": 147,
+    "category": "electric",
+    "image": "img/вимикач-к-1.png"  
+  },
+  {
+    "name": "Вимикач двоклавішний VIKO Carmen білий",
+    "price": 178,
+    "category": "electric",
+    "image": "img/вимикач-к-2.png"  
+  },
+  {
+    "name": "Вимикач двоклавішний VIKO Carmen білий з підсвіткою",
+    "price": 254,
+    "category": "electric",
+    "image": "img/вимикач-к-2-л.png"  
+  },
+  {
+    "name": "Світлодіодна LED-лампочка Neomax 8 W E27 4000 K",
+    "price": 79,
+    "category": "electric",
+    "image": "img/нео-27-с.webp"  
+  },
+  {
+    "name": "Світлодіодна LED-лампочка Neomax 6 W E27 4000 K",
+    "price": 74,
+    "category": "electric",
+    "image": "img/нео-27-с.webp"  
+  },
+  {
+    "name": "Світлодіодна LED-лампочка Neomax 4 W E27 4000 K",
+    "price": 69,
+    "category": "electric",
+    "image": "img/нео-27-с.webp"  
+  },
+  {
+    "name": "Світлодіодна LED-лампочка Neomax 10 W E27 4000 K",
+    "price": 85,
+    "category": "electric",
+    "image": "img/нео-27-норм.webp"  
+  },
+  {
+    "name": "Світлодіодна LED-лампочка Neomax 12 W E27 4000 K",
+    "price": 94,
+    "category": "electric",
+    "image": "img/нео-27-норм.webp"  
+  },
+  {
+    "name": "Світлодіодна LED-лампочка Neomax 15 W E27 4000 K",
+    "price": 123,
+    "category": "electric",
+    "image": "img/нео-27-норм.webp"  
+  },
+  {
+    "name": "Світлодіодна LED-лампочка Neomax 6 W E27 4000 K",
+    "price": 69,
+    "category": "electric",
+    "image": "img/нео-27-мк.webp"  
+  },
+  {
+    "name": "Світлодіодна LED-лампочка Neomax 8 W E27 4000 K",
+    "price": 69,
+    "category": "electric",
+    "image": "img/нео-27-мк.webp"  
+  },
+  {
+    "name": "Світлодіодна LED-лампочка Neomax 4 W E14 4000 K",
+    "price": 78,
+    "category": "electric",
+    "image": "img/нео-14-с.webp"  
+  },
+  {
+    "name": "Світлодіодна LED-лампочка Neomax 6 W E14 4000 K",
+    "price": 78,
+    "category": "electric",
+    "image": "img/нео-14-с.webp"  
+  },
+  {
+    "name": "Світлодіодна LED-лампочка Neomax 8 W E14 4000 K",
+    "price": 78,
+    "category": "electric",
+    "image": "img/нео-14-с.webp"  
+  },
+  {
+    "name": "Грунтовка Ceresit СТ17 Глибокопроникаюча 10л",
+    "price": 747,
+    "category": "paint",
+    "image": "img/ст17-в.webp"  
+  },
+  {
+    "name": "Грунтовка Ceresit СТ17 Глибокопроникаюча 5л",
+    "price": 579,
+    "category": "paint",
+    "image": "img/ст17-в.webp"  
+  },
+  {
+    "name": "Грунтовка Ceresit СТ17 Глибокопроникаюча 2л",
+    "price": 179,
+    "category": "paint",
+    "image": "img/ст17-2.webp"  
+  },
+   {
+    "name": "Грунтовка Ceresit СТ17 СУПЕР Глибокопроникаюча безбарвна 10л",
+    "price": 943,
+    "category": "paint",
+    "image": "img/ст17-вс.webp"  
+  },
+  {
+    "name": "Грунтовка Ceresit СТ17 СУПЕР Глибокопроникаюча безбарвна 5л",
+    "price": 785,
+    "category": "paint",
+    "image": "img/ст17-вс.webp"  
+  },
+  {
+    "name": "Грунтовка Ceresit СТ17 СУПЕР Глибокопроникаюча безбарвна 2л",
+    "price": 456,
+    "category": "paint",
+    "image": "img/ст17-2с.webp"  
+  }
+]
