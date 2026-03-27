@@ -390,6 +390,12 @@
     "image": "img/нож-м-м.webp"
   },
   {
+    "name": "Montage Fix Монтажний клей (без розчинників)",
+    "price": 167,
+    "category": "sealant",
+    "image": "img/лепнина.jpg"
+  },
+  {
     "name": "Клей-герметик Fix-all білий",
     "price": 403,
     "category": "sealant",
@@ -484,6 +490,24 @@
     "price": 167,
     "category": "sealant",
     "image": "img/акрил.jpg"
+  },
+  {
+    "name": "Піна монтажна",
+    "price": 338,
+    "category": "sealant",
+    "image": "img/піна-р.jpg"
+  },
+  {
+    "name": "Піна монтажна пістолетна",
+    "price": 342,
+    "category": "sealant",
+    "image": "img/піна-п.jpg"
+  },
+  {
+    "name": "Поліуретановий клей",
+    "price": 338,
+    "category": "sealant",
+    "image": "img/клей-п-р.jpg"
   },
   {
     "name": "Герметик силіконовий Універсальний білий",
@@ -1036,5 +1060,450 @@
     "price": 456,
     "category": "paint",
     "image": "img/ст17-2с.webp"  
+  },
+  {
+    "name": "Werk 06х50x110 мм Бур SDS-plus",
+    "price": 48,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 06х150x210 мм Бур SDS-plus",
+    "price": 67,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 06х200x260 мм Бур SDS-plus",
+    "price": 86,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 08х50x110 мм Бур SDS-plus",
+    "price": 96,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 08х150x210 мм Бур SDS-plus",
+    "price": 106,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 08х200x260 мм Бур SDS-plus",
+    "price": 115,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 08х400x460 мм Бур SDS-plus",
+    "price": 216,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 10х100x160 мм Бур SDS-plus",
+    "price": 96,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 10х150x210 мм Бур SDS-plus",
+    "price": 152,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 10х200x260 мм Бур SDS-plus",
+    "price": 160,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 10х250x310 мм Бур SDS-plus",
+    "price": 173,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 10х400x460 мм Бур SDS-plus",
+    "price": 212,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 10х540x600 мм Бур SDS-plus",
+    "price": 275,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 12х100x160 мм Бур SDS-plus",
+    "price": 102,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 12х150x210 мм Бур SDS-plus",
+    "price": 162,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 12х200x260 мм Бур SDS-plus",
+    "price": 168,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 12х250x310 мм Бур SDS-plus",
+    "price": 179,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 12х400x460 мм Бур SDS-plus",
+    "price": 227,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 12х540x600 мм Бур SDS-plus",
+    "price": 280,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 14х150x210 мм Бур SDS-plus",
+    "price": 172,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 14х200x260 мм Бур SDS-plus",
+    "price": 180,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 14х250x310 мм Бур SDS-plus",
+    "price": 197,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 14х400x460 мм Бур SDS-plus",
+    "price": 238,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 14х540x600 мм Бур SDS-plus",
+    "price": 297,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 16х800 мм Бур SDS-plus",
+    "price": 640,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 16х1000 мм Бур SDS-plus",
+    "price": 840,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+   {
+    "name": "Werk 18х800 мм Бур SDS-plus",
+    "price": 890,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "Werk 18х1000 мм Бур SDS-plus",
+    "price": 1020,
+    "category": "tools",
+    "image": "img/бур-в.webp"  
+  },
+  {
+    "name": "HAISSER 06х50x110 мм Бур SDS-plus",
+    "price": 74,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 06х150x210 мм Бур SDS-plus",
+    "price": 82,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 06х200x260 мм Бур SDS-plus",
+    "price": 103,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 08х50x110 мм Бур SDS-plus",
+    "price": 103,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 08х150x210 мм Бур SDS-plus",
+    "price": 176,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 08х200x260 мм Бур SDS-plus",
+    "price": 196,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 08х400x460 мм Бур SDS-plus",
+    "price": 314,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 10х100x160 мм Бур SDS-plus",
+    "price": 132,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 10х150x210 мм Бур SDS-plus",
+    "price": 182,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 10х200x260 мм Бур SDS-plus",
+    "price": 246,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 10х250x310 мм Бур SDS-plus",
+    "price": 264,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 10х400x460 мм Бур SDS-plus",
+    "price": 346,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 10х540x600 мм Бур SDS-plus",
+    "price": 347,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 12х100x160 мм Бур SDS-plus",
+    "price": 203,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 12х150x210 мм Бур SDS-plus",
+    "price": 236,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 12х200x260 мм Бур SDS-plus",
+    "price": 269,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 12х250x310 мм Бур SDS-plus",
+    "price": 280,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 12х400x460 мм Бур SDS-plus",
+    "price": 338,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 12х540x600 мм Бур SDS-plus",
+    "price": 381,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 14х150x210 мм Бур SDS-plus",
+    "price": 273,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 14х200x260 мм Бур SDS-plus",
+    "price": 81,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 14х250x310 мм Бур SDS-plus",
+    "price": 298,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 14х400x460 мм Бур SDS-plus",
+    "price": 399,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 14х540x600 мм Бур SDS-plus",
+    "price": 498,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 16х800 мм Бур SDS-plus",
+    "price": 932,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 16х1000 мм Бур SDS-plus",
+    "price": 1079,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+   {
+    "name": "HAISSER 18х800 мм Бур SDS-plus",
+    "price": 890,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER 18х1000 мм Бур SDS-plus",
+    "price": 1020,
+    "category": "tools",
+    "image": "img/бур-х.webp"  
+  },
+  {
+    "name": "HAISSER пістолет для герметика",
+    "price": 247,
+    "category": "tools",
+    "image": "img/пістолет-г-х.webp"  
+  },
+  {
+    "name": "Сталь пістолет для герметика",
+    "price": 143,
+    "category": "tools",
+    "image": "img/пістолет-г-ст.webp"  
+  },
+  {
+    "name": "Gerrard пістолет для герметика",
+    "price": 101,
+    "category": "tools",
+    "image": "img/пістолет-г-г.webp"  
+  },
+  {
+    "name": "HAISSER пістолет для піни",
+    "price": 608,
+    "category": "tools",
+    "image": "img/пістолет-п-х.webp"  
+  },
+  {
+    "name": "Сталь пістолет для піни",
+    "price": 303,
+    "category": "tools",
+    "image": "img/пістолет-п-ст.webp"  
+  },
+  {
+    "name": "Світязь пістолет для піни",
+    "price": 180,
+    "category": "tools",
+    "image": "img/пістолет-п-г.webp"  
+  },
+  {
+    "name": "Світязь молоток 100гр",
+    "price": 180,
+    "category": "tools",
+    "image": "img/молоток с.webp"  
+  },
+  {
+    "name": "Світязь молоток 200гр",
+    "price": 209,
+    "category": "tools",
+    "image": "img/молоток с.webp"  
+  },
+  {
+    "name": "Світязь молоток 300гр",
+    "price": 279,
+    "category": "tools",
+    "image": "img/молоток с.webp"  
+  },
+  {
+    "name": "Світязь молоток 400гр",
+    "price": 364,
+    "category": "tools",
+    "image": "img/молоток с.webp"  
+  },
+  {
+    "name": "Світязь молоток 500гр",
+    "price": 394,
+    "category": "tools",
+    "image": "img/молоток с.webp"  
+  },
+  {
+    "name": "Світязь молоток 1000гр",
+    "price": 479,
+    "category": "tools",
+    "image": "img/молоток с.webp"  
+  },
+  {
+    "name": "Сталь молоток 100гр",
+    "price": 194,
+    "category": "tools",
+    "image": "img/молоток ст.webp"  
+  },
+  {
+    "name": "Сталь молоток 200гр",
+    "price": 232,
+    "category": "tools",
+    "image": "img/молоток ст.webp"  
+  },
+  {
+    "name": "Сталь молоток 300гр",
+    "price": 249,
+    "category": "tools",
+    "image": "img/молоток ст.webp"  
+  },
+  {
+    "name": "Сталь молоток 400гр",
+    "price": 374,
+    "category": "tools",
+    "image": "img/молоток ст.webp"  
+  },
+  {
+    "name": "Сталь молоток 500гр",
+    "price": 495,
+    "category": "tools",
+    "image": "img/молоток ст.webp"  
+  },
+  {
+    "name": "Сталь молоток 1000гр",
+    "price": 600,
+    "category": "tools",
+    "image": "img/молоток ст.webp"  
   }
+  
 ]
