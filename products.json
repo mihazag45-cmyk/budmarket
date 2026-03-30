@@ -1504,6 +1504,107 @@
     "price": 600,
     "category": "tools",
     "image": "img/молоток ст.webp"  
+  },
+  {
+    "name": "Ключ розвідний PROFI 250 мм з тонкими губками 0-60мм",
+    "price": 864,
+    "category": "tools",
+    "image": "img/ключ-р.webp"  
+  },
+  {
+    "name": "Ключ розвідний PROFI 200 мм з тонкими губками 0-60мм",
+    "price": 754,
+    "category": "tools",
+    "image": "img/ключ-р.webp"  
+  },
+  {
+    "name": "Ключ розвідний PROFI 150 мм з тонкими губками 0-60мм",
+    "price": 436,
+    "category": "tools",
+    "image": "img/ключ-р.webp"  
+  },
+  {
+    "name": "Ножиці по металу 250 мм прямі",
+    "price": 366,
+    "category": "tools",
+    "image": "img/ножиці-м-250.webp"  
+  },
+  {
+    "name": "Ножиці по металу 300 мм прямі",
+    "price": 405,
+    "category": "tools",
+    "image": "img/ножиці-м-300.webp"  
+  },
+  {
+    "name": "Ножиці по металу 250 мм",
+    "price": 366,
+    "category": "tools",
+    "image": "img/ножиці-м.webp"  
+  },
+  {
+    "name": "Werk 125х22.23 мм Диск пильний",
+    "price": 185,
+    "category": "tools",
+    "image": "img/диск-п-в.webp"  
+  },
+  {
+    "name": "Werk 150х22.23 мм Диск пильний",
+    "price": 297,
+    "category": "tools",
+    "image": "img/диск-п-в.webp"  
+  },
+  {
+    "name": "Werk 160х20 мм Диск пильний",
+    "price": 279,
+    "category": "tools",
+    "image": "img/диск-п-в.webp"  
+  },
+  {
+    "name": "Werk 160х20 мм Диск пильний",
+    "price": 279,
+    "category": "tools",
+    "image": "img/диск-п-в.webp"  
+  },
+  {
+    "name": "Werk 180х22.23 мм Диск пильний",
+    "price": 357,
+    "category": "tools",
+    "image": "img/диск-п-в.webp"  
+  },
+  {
+    "name": "Werk 180х32 мм Диск пильний",
+    "price": 300,
+    "category": "tools",
+    "image": "img/диск-п-в.webp"  
+  },
+  {
+    "name": "Werk 200х32 мм Диск пильний",
+    "price": 342,
+    "category": "tools",
+    "image": "img/диск-п-в.webp"  
+  },
+  {
+    "name": "Werk 210х30 мм Диск пильний",
+    "price": 402,
+    "category": "tools",
+    "image": "img/диск-п-в.webp"  
+  },
+  {
+    "name": "Werk 230х22.23 мм Диск пильний",
+    "price": 484,
+    "category": "tools",
+    "image": "img/диск-п-в.webp"  
+  },
+  {
+    "name": "Werk 250х32 мм Диск пильний",
+    "price": 610,
+    "category": "tools",
+    "image": "img/диск-п-в.webp"  
+  },
+  {
+    "name": "Werk 300х32 мм Диск пильний",
+    "price": 838,
+    "category": "tools",
+    "image": "img/диск-п-в.webp"  
   }
-  
 ]
