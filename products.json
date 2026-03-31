@@ -1606,5 +1606,59 @@
     "price": 838,
     "category": "tools",
     "image": "img/диск-п-в.webp"  
+  },
+  {
+    "name": "Коронка алмазна по керамограніту - 100 мм Haisser",
+    "price": 1290,
+    "category": "tools",
+    "image": "img/коронка-х-в.webp"  
+  },
+  {
+    "name": "Коронка алмазна по керамограніту - 14 мм Haisser",
+    "price": 232,
+    "category": "tools",
+    "image": "img/коронка-х-м.webp"  
+  },
+  {
+    "name": "Коронка алмазна по керамограніту - 50 мм WERK",
+    "price": 421,
+    "category": "tools",
+    "image": "img/коронка-в-в.webp"  
+  },
+  {
+    "name": "Коронка алмазна по керамограніту - 6 мм WERK",
+    "price": 56,
+    "category": "tools",
+    "image": "img/коронка-в-м.webp"  
+  },
+  {
+    "name": "Werk 125х22.2 мм Диск пелюстковий конічний 36-60р",
+    "price": 76,
+    "category": "tools",
+    "image": "img/диск-п-пл.webp"  
+  },
+  {
+    "name": "Werk 125х22.2 мм Диск пелюстковий плоский 36-60р",
+    "price": 76,
+    "category": "tools",
+    "image": "img/диск-п-пл.webp"  
+  },
+  {
+    "name": "Набір комбінованих ключів CRV 8 шт",
+    "price": 426,
+    "category": "tools",
+    "image": "img/набір-к-8.webp"  
+  },
+  {
+    "name": "Нікельовані довгогубці Сталь 160 мм",
+    "price": 236,
+    "category": "tools",
+    "image": "img/довгогубці.webp"  
+  },
+  {
+    "name": "Нікельовані довгогубці Сталь 180 мм",
+    "price": 287,
+    "category": "tools",
+    "image": "img/довгогубці.webp"  
   }
 ]
