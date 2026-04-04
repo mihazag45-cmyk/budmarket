@@ -1768,5 +1768,113 @@
     "price": 493,
     "category": "bulk",
     "image": "img/ротбпнд.webp"  
+  },
+  {
+    "name": "Сталь Міксер для сухих сумішей м14",
+    "price": 587,
+    "category": "tools",
+    "image": "img/мікс-с-с-м14.webp"  
+  },
+  {
+    "name": "Сталь Міксер для сухих сумішей НЕХ",
+    "price": 274,
+    "category": "tools",
+    "image": "img/мікс-с-с-х.webp"  
+  },
+  {
+    "name": "Сталь Міксер для сухих сумішей SDS-plus",
+    "price": 276,
+    "category": "tools",
+    "image": "img/мікс-с-с-сдс.webp"  
+  },
+  {
+    "name": "Труба каналізаційна 32х1.8, 0,25м",
+    "price": 50,
+    "category": "plumbing",
+    "image": "img/труба-к-32.webp"  
+  },
+  {
+    "name": "Труба каналізаційна 32х1.8, 0,5м",
+    "price": 75,
+    "category": "plumbing",
+    "image": "img/труба-к-32.webp"  
+  },
+  {
+    "name": "Труба каналізаційна 32х1.8, 1м",
+    "price": 112,
+    "category": "plumbing",
+    "image": "img/труба-к-32.webp"  
+  },
+  {
+    "name": "Труба каналізаційна 32х1.8, 1,5м",
+    "price": 168,
+    "category": "plumbing",
+    "image": "img/труба-к-32.webp"  
+  },
+  {
+    "name": "Труба каналізаційна 32х1.8, 2м",
+    "price": 224,
+    "category": "plumbing",
+    "image": "img/труба-к-32.webp"  
+  },
+  {
+    "name": "Труба каналізаційна 50х0,25м 2,7мм",
+    "price": 61,
+    "category": "plumbing",
+    "image": "img/труба-к-50.webp"  
+  },
+  {
+    "name": "Труба каналізаційна 50х0,5м 2,7мм",
+    "price": 78,
+    "category": "plumbing",
+    "image": "img/труба-к-50.webp"  
+  },
+  {
+    "name": "Труба каналізаційна 50х1м 2,7мм",
+    "price": 97,
+    "category": "plumbing",
+    "image": "img/труба-к-50.webp"  
+  },
+  {
+    "name": "Труба каналізаційна 50х1,5м 2,7мм",
+    "price": 145,
+    "category": "plumbing",
+    "image": "img/труба-к-50.webp"  
+  },
+  {
+    "name": "Труба каналізаційна 50х2м 2,7мм",
+    "price": 179,
+    "category": "plumbing",
+    "image": "img/труба-к-50.webp"  
+  },
+  {
+    "name": "Труба каналізаційна 110х 0,25м 2,7мм",
+    "price": 67,
+    "category": "plumbing",
+    "image": "img/труба-к-110.webp"  
+  },
+   {
+    "name": "Труба каналізаційна 110х 0,5м 2,7мм",
+    "price": 178,
+    "category": "plumbing",
+    "image": "img/труба-к-110.webp"  
+  },
+   {
+    "name": "Труба каналізаційна 110х 1м 2,7мм",
+    "price": 196,
+    "category": "plumbing",
+    "image": "img/труба-к-110.webp"  
+  },
+   {
+    "name": "Труба каналізаційна 110х 1,5м 2,7мм",
+    "price": 205,
+    "category": "plumbing",
+    "image": "img/труба-к-110.webp"  
+  },
+   {
+    "name": "Труба каналізаційна 110х 2м 2,7мм",
+    "price": 224,
+    "category": "plumbing",
+    "image": "img/труба-к-110.webp"  
   }
 ]
