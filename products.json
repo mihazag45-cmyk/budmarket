@@ -1871,10 +1871,106 @@
     "category": "plumbing",
     "image": "img/труба-к-110.webp"  
   },
-   {
+  {
     "name": "Труба каналізаційна 110х 2м 2,7мм",
     "price": 224,
     "category": "plumbing",
     "image": "img/труба-к-110.webp"  
+  },
+  {
+    "name": "Шланг водопроводний 1/2, 1/2 40см",
+    "price": 150,
+    "category": "plumbing",
+    "image": "img/шланг-г-г.webp"  
+  },
+  {
+    "name": "Шланг водопроводний 1/2, 1/2 60см",
+    "price": 179,
+    "category": "plumbing",
+    "image": "img/шланг-г-г.webp"  
+  },
+  {
+    "name": "Шланг водопроводний 1/2, 1/2 80см",
+    "price": 216,
+    "category": "plumbing",
+    "image": "img/шланг-г-г.webp"  
+  },
+  {
+    "name": "Шланг водопроводний 1/2, 1/2 100см",
+    "price": 298,
+    "category": "plumbing",
+    "image": "img/шланг-г-г.webp"  
+  },
+  {
+    "name": "Шланг підводка 1/2, 40см",
+    "price": 126,
+    "category": "plumbing",
+    "image": "img/шланг-г-и.webp"  
+  },
+  {
+    "name": "Шланг підводка 1/2, 60см",
+    "price": 246,
+    "category": "plumbing",
+    "image": "img/шланг-г-и.webp"  
+  },
+  {
+    "name": "Шланг підводка 1/2, 80см",
+    "price": 286,
+    "category": "plumbing",
+    "image": "img/шланг-г-и.webp"  
+  },
+  {
+    "name": "Шланг підводка 1/2, 100см",
+    "price": 364,
+    "category": "plumbing",
+    "image": "img/шланг-г-и.webp"  
+  },
+  {
+    "name": "Шланг для душу, 150см",
+    "price": 198,
+    "category": "plumbing",
+    "image": "img/шланг-д.webp"  
+  },
+  {
+    "name": "Шланг для душу, 175см",
+    "price": 243,
+    "category": "plumbing",
+    "image": "img/шланг-д.webp"  
+  },
+  {
+    "name": "Шланг для душу, 200см",
+    "price": 298,
+    "category": "plumbing",
+    "image": "img/шланг-д.webp"  
+  },
+  {
+    "name": "Шланг газовий силіконовий, 100см",
+    "price": 197,
+    "category": "plumbing",
+    "image": "img/шланг-газ.webp"  
+  },
+  {
+    "name": "Шланг газовий силіконовий, 150см",
+    "price": 249,
+    "category": "plumbing",
+    "image": "img/шланг-газ.webp"  
+  },
+  {
+    "name": "Шланг газовий силіконовий, 200см",
+    "price": 273,
+    "category": "plumbing",
+    "image": "img/шланг-газ.webp"  
+  }, 
+  {
+    "name": "Шланг газовий силіконовий, 250см",
+    "price": 361,
+    "category": "plumbing",
+    "image": "img/шланг-газ.webp"  
+  }, 
+  {
+    "name": "Шланг газовий силіконовий, 300см",
+    "price": 399,
+    "category": "plumbing",
+    "image": "img/шланг-газ.webp"  
   }
 ]

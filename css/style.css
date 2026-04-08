@@ -17,6 +17,9 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: sticky;
+    height: fit-content;
+    top: 0px;
 }
 
 .logo{
@@ -60,7 +63,7 @@ body{
     padding: 15px;
     border-radius: 10px;
     position: sticky;
-    top: 20px;
+    top: 60px;
     height: fit-content;
 }
 
@@ -326,6 +329,14 @@ body{
 
 #search-input{
     width: 170px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+#search-input-index{
+    width: 300px;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 6px;
