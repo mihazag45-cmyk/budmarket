@@ -185,7 +185,8 @@ body{
 }
 
 .hero{
-    background: linear-gradient(135deg,#1e3c72,#2a5298);
+    background: url(../img/hero.png) no-repeat center center;
+    background-size: cover;
     padding: 80px 20px;
     height: 400px;
     display: flex;
@@ -241,6 +242,36 @@ body{
 .popular{
     padding: 40px;
     text-align: center;
+}
+
+.popular h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    text-align: center;
+    
+}
+
+.categories{
+    padding: 40px;
+    text-align: center;
+   }
+
+.categories h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    text-align: center;
+    
+}   
+
+.popular-categories{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;    
 }
 
 .popular-products{
